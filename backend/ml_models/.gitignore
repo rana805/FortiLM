@@ -1,0 +1,38 @@
+# Ignore model files (they can be large)
+*.pkl
+*.joblib
+*.onnx
+*.h5
+*.pb
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+
+# Keep directory structure
+!.gitkeep
+!README.md
+
+# But allow specific models if needed (uncomment and add)
+# !pii_detector_v1.pkl
+# !toxicity_detector_v1.pkl
+
+
+*.pkl
+*.joblib
+*.onnx
+*.h5
+*.pb
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+
+# Keep directory structure
+!.gitkeep
+!README.md
+
+# But allow specific models if needed (uncomment and add)
+# !pii_detector_v1.pkl
+# !toxicity_detector_v1.pkl
+

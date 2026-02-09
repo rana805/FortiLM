@@ -1,0 +1,12 @@
+{
+  "model_name": "distilbert-base-uncased",
+  "num_labels": 2,
+  "train_examples": 25346,
+  "val_examples": 3169,
+  "test_examples": 3169,
+  "training_args": {
+    "num_epochs": 3,
+    "batch_size": 16,
+    "learning_rate": 2e-05
+  }
+}

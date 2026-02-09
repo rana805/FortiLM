@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+.Python
+backend/venv/
+venv/
+.env
+.env.local
+*.log
+
+# Data and artifacts
+*.csv
+*.tex
+# *.pdf (allow proposal PDF)
+backend/ml_models/training/data/
+
+# Process / IDE / OS
+.backend.pid
+.frontend.pid
+.DS_Store
+.idea/
+.vscode/
+.cursor/
+
+# Frontend (Next.js)
+frontend/node_modules/
+frontend/.next/
+frontend/out/

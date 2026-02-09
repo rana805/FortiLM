@@ -1,0 +1,14 @@
+# Custom Trained Models Directory
+# Place your trained models here:
+# - ml_models/pii_detector/ - PII detection models
+# - ml_models/toxicity_detector/ - Toxicity detection models  
+# - ml_models/bias_detector/ - Bias detection models
+# - ml_models/jailbreak_detector/ - Jailbreak detection models
+
+
+# Place your trained models here:
+# - ml_models/pii_detector/ - PII detection models
+# - ml_models/toxicity_detector/ - Toxicity detection models  
+# - ml_models/bias_detector/ - Bias detection models
+# - ml_models/jailbreak_detector/ - Jailbreak detection models
+
