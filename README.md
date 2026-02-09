@@ -77,6 +77,3 @@ fortilm-project/
 
 Training scripts and guides live under `backend/ml_models/training/` (e.g. Colab-ready scripts for toxicity and bias detectors). Datasets and large artifacts are not included in the repo; see the training READMEs for data setup.
 
-## License
-
-MIT (or your chosen license).
